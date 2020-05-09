@@ -1,6 +1,8 @@
 <#  Install-Fonts 3.0
     Place Fonts in the 'Fonts' subfolder of the script folder
     
+    Source: https://social.technet.microsoft.com/Forums/en-US/0c94dcf5-b89d-42e5-a499-06313f46f88b/can-no-longer-install-fonts-via-script-in-windows-10-1809?forum=win10itprogeneral
+    
       *** CURRENTLY ONLY SUPPORTS ***
     TrueType FONTS (.TTF EXTENSION)
     
